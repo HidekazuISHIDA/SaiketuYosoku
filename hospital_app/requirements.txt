@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-xgboost
+xgboost==1.7.6
 scikit-learn
 jpholiday
 matplotlib
