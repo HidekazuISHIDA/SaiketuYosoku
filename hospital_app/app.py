@@ -5,7 +5,7 @@ import xgboost as xgb
 import jpholiday
 import json
 import matplotlib.pyplot as plt
-import japanize_matplotlib
+
 from datetime import date, timedelta
 
 st.set_page_config(page_title="🏥 A病院 待ち人数・待ち時間予測", layout="wide")
